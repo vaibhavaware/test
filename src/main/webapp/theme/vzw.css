@@ -1,0 +1,118 @@
+body {
+
+  }
+  select{
+	background : #CCCCCC repeat-x;
+	border-right : thin #FF9933;
+	border : thin;
+	font : 12 normal larger Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color : #333366;
+	scrollbar-highlight-color : #FFFFCC;
+	text-align : center;
+	scrollbar-base-color : Black;
+	font-weight : bolder;
+	layout-grid : both;
+	width : 150px;
+	text-justify : auto;
+}
+
+button {
+	background : Black;
+	border : thin solid Red;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-style : normal;
+	font-weight : bold;
+}
+
+input {
+    background : #CCCCCC repeat-x;
+	font : 12 normal larger Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: #333366;
+	font-weight:bolder;
+	width : 150px;
+}
+input.checkbox, input.radio {
+     background-color: #ffffff;
+     width : 30px;
+}
+  A:ACTIVE {
+	color : #DC143C;
+	border-right : thin none #FF9933;
+}
+
+A:LINK {
+	color : #FF6699;
+	font-family : Verdana;
+	text-decoration : none;
+	background : repeat-x;
+}
+
+
+A:HOVER {
+	background-color : #FFFFCC;
+	border : thin outset;
+	color: #333366
+}
+A:VISITED {
+	
+	color : #4169E1;
+}
+
+
+.link  {
+	
+	color:#FF0000;
+	
+}
+.price {  }
+.VerdanaRed9NB  {  font-family: Verdana; font-size: 9pt; font-weight: normal; color: #FF0000}
+.VerdanaRed10NB  {  font-family: Verdana; font-size: 10pt; font-weight: normal; color: #FF0000}
+.VerdanaRed8  {  font-family: Verdana; font-size: 10pt; font-weight: bold; color: #FF0000}
+.VerdanaRed10  {  font-family: Verdana; font-size: 10pt; font-weight: bold; color: #FF0000}
+.VerdanaBlack8NB  {  font-family: Verdana; font-size: 8pt; font-weight: normal; color: #000000}
+.VerdanaBlack9NB  {  font-family: Verdana; font-size: 9pt; font-weight: normal; color: #000000}
+.VerdanaBlack10  {  font-family: Verdana; font-size: 10pt; font-weight: bold; color: #000000}
+.VerdanaBlack10NB  {  font-family: Verdana; font-size: 10pt; font-weight: normal; color: #000000}
+.VerdanaBlack12  {  font-family: Verdana; font-size: 12pt; font-weight: bolder; color: #000000}
+.VerdanaBlack12NB  {  font-family: Verdana; font-size: 12pt; font-weight: bolder; color: #000000}
+.VerdanaBlack14  {  font-family: Verdana; font-size: 14pt; font-weight: bolder; color: #000000}
+.VerdanaBlack14NB  {  font-family: Verdana; font-size: 14pt; color: #000000}
+.VerdanaBlack16  {  font-family: Verdana; font-size: 16pt; font-weight: bolder; color: #000000}
+.VerdanaBlue6  {
+	font-family: Verdana;
+	font-size: 8pt;
+	font-weight: normal;
+	color: #333366;
+	font-style : italic;
+}
+.VerdanaBlue8  {
+	font-family: Verdana;
+	font-size: 8pt;
+	font-weight: normal;
+	color: #333366;
+	font-style : italic;
+}
+.VerdanaBlue9  {  font-family: Verdana; font-size: 9pt; font-weight: bolder; color: #333366}
+
+.VerdanaBlue10  {  font-family: Verdana; font-size: 10pt; font-weight: bolder; color: #333366}
+.VerdanaBlue11  {  font-family: Verdana; font-size: 11pt; font-weight: bolder; color: #333366}
+
+
+.VerdanaBlue9NB  {  font-family: Verdana; font-size: 9pt; color: #333366}
+.VerdanaBlue12  {  font-family: Verdana; font-size: 12pt; font-weight: bolder; color: #333366}
+.VerdanaBlue16  {  font-family: Verdana; font-size: 16pt; font-weight: bolder; color: #333366}
+.VerdanaWhite10  {  font-family: Verdana; font-size: 10pt; font-weight: bolder; color: #FFFFFF}
+
+.VerdanaWhite12  {  font-family: Verdana; font-size: 12pt; font-weight: bolder; color: #FFFFFF}
+
+.VerdanaGold10  {  font-family: Verdana; font-size: 10pt; font-weight: bolder; color: #CCCC99}
+.VerdanaGold12  {  font-family: Verdana; font-size: 12pt; font-weight: bolder; color: #CCCC99}
+.formType1 { font-family: Verdana; font-size: 13pt; font-weight: bolder; color: #FFFFFF}
+.formType2 { font-family: Verdana; font-size: 12pt; font-weight: bolder; color: #FFFFFF}
+.formType3 { font-family: Verdana; font-size: 11pt; font-weight: bolder; color: #FFFFFF}
+.formType4 { font-family: Verdana; font-size: 10pt; font-weight: bolder; color: #FFFFFF}
+.VerdanaBlue12NoBold  {  font-family: Verdana; font-size: 12pt; color: #333366}
+.div {  font-family: Verdana; font-size: 12pt; font-weight: bolder; border:}
+.errorClass  {  font-family: Verdana; font-size: 12pt; font-weight: bold; color: #FF0000}
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.ejs.models.base.bindings.webappbnd:WebAppBinding xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.ejs.models.base.bindings.webappbnd="webappbnd.xmi" xmlns:org.eclipse.jst.j2ee.common="common.xmi" xmi:id="WebAppBinding_1" virtualHostName="default_host">
+  <webapp href="WEB-INF/web.xml#WebApp"/>
+  <resRefBindings xmi:id="ResourceRefBinding_1107451291103" jndiName="jdbc/DMDDS">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1107451291103"/>
+  </resRefBindings>
+  <resRefBindings xmi:id="ResourceRefBinding_1108496129756" jndiName="jms/DmdQcf">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1108496129756"/>
+  </resRefBindings>
+  <resRefBindings xmi:id="ResourceRefBinding_1108496264524" jndiName="jms/DmdQueueIE">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1108496264524"/>
+  </resRefBindings>
+  <resRefBindings xmi:id="ResourceRefBinding_1108496264525" jndiName="jms/DmdRQueue1">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1108496264525"/>
+  </resRefBindings>
+  <resRefBindings xmi:id="ResourceRefBinding_1109268114395" jndiName="jms/DmdRQueue2">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1109268114395"/>
+  </resRefBindings>
+  <resRefBindings xmi:id="ResourceRefBinding_1109268114396" jndiName="jms/DmdQueueIW">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1109268114396"/>
+  </resRefBindings>
+  <resRefBindings xmi:id="ResourceRefBinding_1109268114405" jndiName="jms/DmdQueueVE">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1109268114405"/>
+  </resRefBindings>
+  <resRefBindings xmi:id="ResourceRefBinding_1109268114406" jndiName="jms/DmdQueueVW">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1109268114406"/>
+  </resRefBindings>
+  <resRefBindings xmi:id="ResourceRefBinding_1184097887776" jndiName="jdbc/DMDDSR">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_1184097887776"/>
+  </resRefBindings>
+  <resRefBindings xmi:id="ResourceRefBinding_DMDDSR1" jndiName="jdbc/DMDDSR1">
+    <bindingResourceRef href="WEB-INF/web.xml#ResourceRef_DMDDSR1"/>
+  </resRefBindings>
+  <ejbRefBindings xmi:id="EjbRefBinding_1109873044530" jndiName="ejb/EsnMeidLock">
+    <bindingEjbRef xmi:type="org.eclipse.jst.j2ee.common:EJBLocalRef" href="WEB-INF/web.xml#EJBLocalRef_1109873044530"/>
+  </ejbRefBindings>
+  <ejbRefBindings xmi:id="EjbRefBinding_1109873044540" jndiName="ejb/EsnMeidLookup">
+    <bindingEjbRef xmi:type="org.eclipse.jst.j2ee.common:EJBLocalRef" href="WEB-INF/web.xml#EJBLocalRef_1109873044540"/>
+  </ejbRefBindings>
+  <ejbRefBindings xmi:id="EjbRefBinding_1109873044541" jndiName="ejb/FullXmlLookup">
+    <bindingEjbRef xmi:type="org.eclipse.jst.j2ee.common:EJBLocalRef" href="WEB-INF/web.xml#EJBLocalRef_1109873044541"/>
+  </ejbRefBindings>
+</com.ibm.ejs.models.base.bindings.webappbnd:WebAppBinding>
